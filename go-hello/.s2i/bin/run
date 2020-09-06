@@ -2,4 +2,4 @@
 
 echo 'THIS IS THE CUSTOMIZED RUN SCRIPT'
 
-/usr/libexec/s2i/run
+/opt/app-root/go-app-main --lang=es
