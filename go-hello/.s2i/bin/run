@@ -2,4 +2,4 @@
 
 echo 'THIS IS THE CUSTOMIZED RUN SCRIPT'
 
-/opt/app-root/go-app-main --lang=es
+exec /opt/app-root/go-app-main --lang=es
